@@ -146,6 +146,8 @@ skyseg.onnx
 input_images_*
 .history
 .gradio
+temp_scene_*
+examples/
 
 # pixi environments
 .pixi
